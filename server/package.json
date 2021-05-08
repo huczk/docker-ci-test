@@ -52,6 +52,6 @@
     "reflect-metadata": "^0.1.13",
     "slug": "^2.1.0",
     "type-graphql": "^0.18.0-beta.9",
-    "typeorm": "^0.2.22"
+    "typeorm": "^0.2.25"
   }
 }
